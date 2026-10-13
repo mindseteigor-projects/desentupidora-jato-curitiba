@@ -21,7 +21,7 @@ a{text-decoration:none;color:inherit}
 .menu-toggle{display:none;background:none;border:0;color:#fff;font-size:28px}
 
 .hero{position:relative;min-height:420px;color:#fff;overflow:hidden;background:var(--navy)}
-.hero-image{position:absolute;inset:0;background-image:url('https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1800&q=85');background-size:cover;background-position:center right}
+.hero-image{position:absolute;inset:0;background-image:url('https://hydrojettingdallas.com/images/residential-hydro-jetting-dallas.jpg');background-size:cover;background-position:center}
 .hero-overlay{position:absolute;inset:0;background:linear-gradient(90deg,#022c53 0%,#022c53e8 34%,#022c53a8 58%,#022c5360 100%)}
 .hero-content{position:relative;min-height:420px;display:flex;align-items:center;justify-content:space-between}
 .hero-copy{padding:38px 0}
@@ -42,7 +42,7 @@ a{text-decoration:none;color:inherit}
 .service-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:15px}
 .service-card{background:#fff;border:1px solid #e4ebf0;border-radius:7px;text-align:center;overflow:hidden;box-shadow:0 3px 10px #092e5510;padding-bottom:15px;position:relative}
 .service-img{height:85px;background-size:cover;background-position:center}
-.img-1{background-image:url('https://www.hidrojatocascavel.com.br/imagens/informacoes/empresa-desentupir-canos-01.webp')}
+.img-1{background-image:url('https://www.marlinplumbingservice.com/_next/image?dpl=dpl_DiLWs2TANJ1LhXkpKj15N4GPmZea&q=75&url=%2Fimages%2Fservices%2Fdrain-services.jpeg&w=3840')}
 .img-2{background-image:url('https://www.marlinplumbingservice.com/_next/image?dpl=dpl_DiLWs2TANJ1LhXkpKj15N4GPmZea&q=75&url=%2Fimages%2Fservices%2Fdrain-services.jpeg&w=3840')}
 .img-3{background-image:url('https://hydrojettingdallas.com/images/residential-hydro-jetting-dallas.jpg')}
 .img-4{background-image:url('https://cdn.cuezilla-cms.com/css624.com/images/755/23182.jpg')}
